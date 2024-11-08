@@ -1,0 +1,7 @@
+sources:
+  - CoralPixels.glyphs
+familyName: "Coral Pixels"
+outputDir: ../fonts
+ttDir: $outputDir/ttf
+buildTTF: true
+buildOTF: false
